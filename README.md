@@ -1,2 +1,2 @@
 # hello-world
-O primeiro de muitos
+O primeiro repo de muitos
